@@ -1,0 +1,8 @@
+{
+  "id": "json-schema-form-editor",
+  "name": "json-schema-form-editor",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": [
+    "Object"
+  ]
+}
