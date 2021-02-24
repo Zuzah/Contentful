@@ -4,8 +4,6 @@ This section will house sample Contentful UI extensions for free use. As of writ
 
 # Setup
 
-Below are instructions for first-time setup. 
-
 - Install the contentful create extension package if not already
 
     ```bash
