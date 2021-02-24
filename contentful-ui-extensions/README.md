@@ -12,8 +12,6 @@ Below are instructions for first-time setup.
     npm install -g create-contentful-extension
     ```
 
-- From the root of the folder, run the following command:
-
 # Creating a Contentful UI Extension
 
 Note: Develelopment of a Contentful UI Extension involves React component development.
