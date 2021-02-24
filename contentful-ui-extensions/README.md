@@ -6,9 +6,9 @@ This section will house sample Contentful UI extensions for free use. As of writ
 
 Install the contentful create extension package if not already
 
-    ```bash
-    npm install -g create-contentful-extension
-    ```
+```bash
+npm install -g create-contentful-extension
+```
 
 # Creating a Contentful UI Extension
 
