@@ -1,0 +1,7 @@
+{
+    "spaceId": "YOUR-SPACE",
+    "environmentId": "YOUR-ENVIRONMENT",
+    "managementToken": "YOUR-MANAGEMENT-TOKEN",
+    "contentFile": "YOUR-IMPORT-FILE.json",
+    "skipContentModel": true
+}

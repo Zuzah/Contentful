@@ -1,0 +1,7 @@
+{
+    "spaceId": "YOUR-SPACE",
+    "environmentId": "YOUR-ENVIRONMENT",
+    "managementToken": "YOUR-TOKEN",
+    "skipContent": true,
+    "maxAllowedLimit": 500
+}
