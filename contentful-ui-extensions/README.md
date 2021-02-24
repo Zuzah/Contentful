@@ -4,7 +4,7 @@ This section will house sample Contentful UI extensions for free use. As of writ
 
 # Setup
 
-- Install the contentful create extension package if not already
+Install the contentful create extension package if not already
 
     ```bash
     npm install -g create-contentful-extension
