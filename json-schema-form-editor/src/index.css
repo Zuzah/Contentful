@@ -8,3 +8,33 @@ div {
   font: inherit;
   vertical-align: baseline;
 }
+
+input, th, select {
+
+  font-family: "Segoe UI" !important;
+  font-size: .875rem !important;
+  color: #536171 !important;
+
+}
+
+button,
+.button {
+  background-color: #e5ebed !important;
+  border-color: #c3cfd5 !important;
+  color: #536171;
+}
+
+button:hover, button:focus, .button:hover, .button:focus {
+  background-color: #d3dce0 !important;
+  border-color: #b4c3ca !important;
+}
+
+select:focus {
+  border: 1px solid #2e75d4 !important;
+  box-shadow: 0 0 7px #2e75d4 !important;
+}
+
+input:focus {
+  border: 2px solid #2e75d4 !important;
+  box-shadow: 0 0 7px #2e75d4 !important;
+}
